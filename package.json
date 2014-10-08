@@ -1,0 +1,23 @@
+{
+  "name": "darianmacdonald",
+  "version": "1.0.0",
+  "description": "chat server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.9.5",
+    "socket.io": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat-example"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "darianmacdonald",
+  "license": "ISC"
+}
