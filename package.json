@@ -1,23 +1,9 @@
 {
-  "name": "darianmacdonald",
-  "version": "1.0.0",
-  "description": "chat server",
-  "main": "index.js",
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
   "dependencies": {
-    "express": "^4.9.5",
+    "express": "^4.9.6",
     "socket.io": "^1.1.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "chat-example"
-  },
-  "keywords": [
-    "chat"
-  ],
-  "author": "darianmacdonald",
-  "license": "ISC"
+  }
 }
