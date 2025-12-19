@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
 
 %% Phase 1: Customer Resolution
@@ -64,3 +65,4 @@ T -->|Pass| U
 T -->|Fail| V --> N
 
 I --> X --> Y --> Z
+```
