@@ -1,9 +1,4 @@
-Approved – Replacement Required
 
-Allowed next status:
-	•	➜ Replacement Order Created
-
-⸻
 
 Replacement Order Created
 
